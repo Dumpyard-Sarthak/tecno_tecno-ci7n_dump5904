@@ -1,0 +1,14 @@
+# sys_tssi_64_armv82_tecno-user Tiramisu TP1A.220310.002 292244 release-keys
+- manufacturer: 
+- platform: mt6833
+- codename: TECNO-CI7n
+- flavor: sys_tssi_64_armv82_tecno-user
+- release: 12
+- id: TP1A.220310.002
+- incremental: 220505V35
+- tags: release-keys
+- fingerprint: TECNO/CI7n-GL/TECNO-CI7n:12/SP1A.210812.016/220505V36:user/release-keys
+- is_ab: true
+- brand: TECNO
+- branch: sys_tssi_64_armv82_tecno-user-Tiramisu-TP1A.220310.002-292244-release-keys
+- repo: tecno_tecno-ci7n_dump5904
